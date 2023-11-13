@@ -1,0 +1,8 @@
+c:\users\mahdi\documents\visual studio 2017\Projects\MahdiAskariFirstProject\MahdiAskariFirstProject\bin\Debug\MahdiAskariFirstProject.exe.config
+c:\users\mahdi\documents\visual studio 2017\Projects\MahdiAskariFirstProject\MahdiAskariFirstProject\bin\Debug\MahdiAskariFirstProject.exe
+c:\users\mahdi\documents\visual studio 2017\Projects\MahdiAskariFirstProject\MahdiAskariFirstProject\bin\Debug\MahdiAskariFirstProject.pdb
+c:\users\mahdi\documents\visual studio 2017\Projects\MahdiAskariFirstProject\MahdiAskariFirstProject\obj\Debug\MahdiAskariFirstProject.Properties.Resources.resources
+c:\users\mahdi\documents\visual studio 2017\Projects\MahdiAskariFirstProject\MahdiAskariFirstProject\obj\Debug\MahdiAskariFirstProject.csproj.GenerateResource.Cache
+c:\users\mahdi\documents\visual studio 2017\Projects\MahdiAskariFirstProject\MahdiAskariFirstProject\obj\Debug\MahdiAskariFirstProject.exe
+c:\users\mahdi\documents\visual studio 2017\Projects\MahdiAskariFirstProject\MahdiAskariFirstProject\obj\Debug\MahdiAskariFirstProject.pdb
+c:\users\mahdi\documents\visual studio 2017\Projects\MahdiAskariFirstProject\MahdiAskariFirstProject\obj\Debug\MahdiAskariFirstProject.Form1.resources
